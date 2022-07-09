@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Este é um projeto didático implementado durante as aulas de Programação Web do IFPR Campus Paranavaí, aproveite!!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
